@@ -9,7 +9,7 @@ class Test
 {
     public static function hello()
     {
-        return 'Testing printing HELLO HELLO !!!!! more testing here !!! and more and more thrid';
+        return 'Testing printing HELLO HELLO !!!!! update 2016!!';
     }
 }
 
